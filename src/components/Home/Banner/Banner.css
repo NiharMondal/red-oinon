@@ -1,0 +1,31 @@
+.search_box{
+   background-image: url(./bannerbackground.png);
+   background-position: center;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 350px;
+   width: 100%;
+   padding: 4px;
+}
+.input_box{
+   background-color: #fff;
+   width: 312px;
+   border-radius: 22px;
+}
+.input_box input{
+   outline: none !important;
+   border: none !important;
+   padding: .5rem;
+   width: 230px;
+   border-radius: 22px;
+}
+.input_box button{
+   background-color: red;
+   color: #fff;
+   padding: 6px 15px;
+   border-radius: 22px;
+   border: 1px solid red;
+   font-weight: 500;
+}

@@ -1,0 +1,42 @@
+.path_wrapper{
+   margin-bottom: 1rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.path_wrapper ul{
+   display: flex;
+}
+.btn_disabled{
+   background-color: burlywood;
+   padding: 5px 13px;
+   cursor: not-allowed;
+   border-radius: 7px;
+   color: rgb(0, 0, 0);
+   font-weight: 500;
+}
+.path_wrapper ul li{
+   list-style: none;
+   padding: 6px 13px;
+}
+.path_wrapper button{
+   font-weight: 500;
+}
+
+.single_item {
+   padding:17px 0px ;
+   height: 430px;
+   text-align: center;
+
+   cursor: pointer;
+   transition: .5s;
+}
+.single_item:hover{
+   box-shadow: 8px 8px 40px rgb(235, 229, 229);
+   transition: .5s;
+   transform: scale(1.05);
+}
+.single_item img{
+   width: 270px;
+
+}

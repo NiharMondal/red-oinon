@@ -1,8 +1,7 @@
 import React from 'react';
 import './Banner.css';
 import { Grid } from '@material-ui/core';
-import bannerPhoto from './bannerbackground.png'
-import { Button, Form, FormControl } from 'react-bootstrap';
+
 const Banner = () => {
    return (
       <Grid container>

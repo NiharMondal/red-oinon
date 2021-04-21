@@ -1,0 +1,16 @@
+.footer_content{
+   background-color: black;
+   
+}
+.footer_content img{
+   width: 170px;
+   
+}
+
+.footer_content ul li{
+   list-style: none;
+   color: #fff;
+}
+.footer p{
+   color: rgb(240, 235, 229);
+}

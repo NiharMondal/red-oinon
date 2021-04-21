@@ -1,14 +1,18 @@
 import React from 'react';
 import Banner from '../Banner/Banner';
-import Navheader from '../Header/Navheader';
-import Main from '../Main/Main';
+import Choseus from '../Choseus/Choseus';
+import Food from '../Food/Food';
+import Footer from '../Footer/Footer';
+
+
 
 const Home = () => {
    return (
       <div>
-         <Navheader />
          <Banner />
-         <Main/>
+         <Food />
+         <Choseus />
+         <Footer/>
       </div>
    );
 };

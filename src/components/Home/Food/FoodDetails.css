@@ -1,0 +1,44 @@
+.meal_wrapper{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+   width: auto;
+}
+.back_btn button{
+   background-color: #000000;
+   color: #fff;
+   padding: 4px 12px;
+   border:none;
+}
+.detail_img{
+   width: 450px;
+   margin: auto;
+}
+.cart_function{
+   width: 140px;
+   border: 1px solid gray;
+   border-radius: 33px;
+}
+.btn_active:hover{
+   color: red;
+}
+.btn_active{
+   border: none;
+   outline: none;
+   background-color: #fff;
+}
+.active{
+   color: red;
+}
+button .react_btn{
+   font-size: 24px !important;
+}
+.add_btn{
+   background-color: red !important;
+   color: #fff;
+   border: none;
+   border-radius: 23px;
+   font-size: 21px;
+   padding: 5px 15px;
+}

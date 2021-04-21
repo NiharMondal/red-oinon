@@ -22,9 +22,9 @@
    border-radius: 22px;
 }
 .input_box button{
-   background-color: red;
+   background-color: #dc3545;
    color: #fff;
-   padding: 6px 15px;
+   padding: 6px 15.5px;
    border-radius: 22px;
    border: 1px solid red;
    font-weight: 500;

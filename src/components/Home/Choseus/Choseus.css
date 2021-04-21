@@ -1,0 +1,30 @@
+.choseus_content h2{
+   font-family: monospace;
+}
+.choose_reason {
+   width: 100%;
+   height: 500px;
+   transition: .5s;
+}
+.choose_reason:hover{
+   box-shadow: 8px 8px 40px rgb(235, 229, 229);
+   transition: .5s;
+}
+.choose_reason img{
+   width: 90%;
+   height: 290px;
+   padding: 0px 5px;
+   margin-left: 6px;
+}
+.icon{
+   font-size: 40px;
+   color: #eb3030;
+}
+.see_more{
+   color: #003cff;
+}
+.right_arrow{
+   border-radius: 50%;
+   color: #fff;
+   background-color: rgb(12, 228, 58);
+}

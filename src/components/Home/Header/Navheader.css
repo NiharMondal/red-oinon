@@ -1,12 +1,12 @@
 .navbar-brand img{
-   width: 100px;
+   width: 150px;
 }
 .nav-link{
    font-weight: 600;
    font-size: 17px;
 }
 .signup{
-   background-color: rgb(148, 5, 5);
+   background-color: #d33645;
    border-radius: 20px;
    color: #fff !important;
 }
